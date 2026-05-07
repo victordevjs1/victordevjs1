@@ -1,6 +1,7 @@
-<h1 align="center">Victor Brito</h1>
+<div align="center">
+  
+# Victor Brito
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=%3E+Transforming+ideas+into+systems" />
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%3E+System+Development+Student;%3E+Transforming+ideas+into+systems" alt="Typing SVG" /></a>
-</p>
+</div>
