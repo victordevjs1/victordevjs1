@@ -40,7 +40,10 @@ student = {
 </div>
 
 <div>
-  <h2>🧰 Arsenal</h2>
+  <h2>
+   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzUyNXdlYXA4NjYwbGh0cWkzajEyZnBwZXIwcjJtZ29hYjI0cGdqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="20px">
+    Arsenal
+    </h2>
 
 <table align="center">
 <tr>
