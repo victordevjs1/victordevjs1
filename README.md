@@ -12,3 +12,7 @@
   <img src="https://img.shields.io/github/followers/victordevjs1?label=FOLLOWERS&style=for-the-badge&color=blue" />
 </p>
 </div>
+<hr style="border: 1px solid #30363d;">
+<div>
+  <img src="https://img.shields.io/badge/%F0%9F%93%8A%20whoami-111111?style=for-the-badge" />
+</div>
