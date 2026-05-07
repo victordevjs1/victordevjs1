@@ -20,7 +20,11 @@
   whoami
 </h3>
 
-<div style="height: 1px; background: #00bfff;"></div>
+<table width="100%">
+<tr>
+<td bgcolor="#00bfff" height="1"></td>
+</tr>
+</table>
 
 <pre>
 <code>
