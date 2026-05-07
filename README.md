@@ -42,7 +42,7 @@ student = {
 <div>
   <h2>🧰 Arsenal</h2>
 
-<table>
+<table align="center">
 <tr>
 <td align="center">
 🎨 Front-end<br><br>
