@@ -39,6 +39,12 @@ student = {
 </pre>
 </div>
 
+<p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00bfff&section=header" width="1000"/>
+</p
+  
+  <!--Area do arsenal -->
+  
 <div>
   <h2>
    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzUyNXdlYXA4NjYwbGh0cWkzajEyZnBwZXIwcjJtZ29hYjI0cGdqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="20px">
