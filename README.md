@@ -12,7 +12,9 @@
   <img src="https://img.shields.io/github/followers/victordevjs1?label=FOLLOWERS&style=for-the-badge&color=blue" />
 </p>
 </div>
-<hr style="border: 1px solid #30363d;">
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=00bfff&width=20"/>
+</p>
 <div>
 
  <h3>
