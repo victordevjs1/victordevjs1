@@ -20,7 +20,7 @@
   whoami
 </h3>
 
-<hr>
+<div style="height: 1px; background: #00bfff;"></div>
 
 <pre>
 <code>
