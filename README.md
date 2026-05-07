@@ -14,5 +14,5 @@
 </div>
 <hr style="border: 1px solid #30363d;">
 <div>
-  <img src="https://img.shields.io/badge/%F0%9F%93%8A%20whoami-111111?style=for-the-badge" />
+ <img src="https://camo.githubusercontent.com/7b60918a718d321e304686494060b6ed7c0957dfd29e0961d6b0e49cb9550e7f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="300px" />
 </div>
