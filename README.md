@@ -20,7 +20,9 @@
   whoami
 </h3>
 
-<img width="100%" height="1" src="https://via.placeholder.com/1000x1/00bfff/00bfff">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00bfff"/>
+</p>
 
 
 <pre>
