@@ -20,11 +20,8 @@
   whoami
 </h3>
 
-<table width="100%">
-<tr>
-<td bgcolor="#00bfff" height="1"></td>
-</tr>
-</table>
+<hr style="height:1px;border:none;background-color:#00bfff;">
+
 
 <pre>
 <code>
