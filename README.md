@@ -13,7 +13,7 @@
 </p>
 </div>
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=00bfff&width=20"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00bfff&section=header" width="1000"/>
 </p>
 <div>
 
