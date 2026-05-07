@@ -10,6 +10,6 @@
 
   <img src="https://img.shields.io/github/followers/victordevjs1?label=FOLLOWERS&style=flat&color=red" />
 
-  <img src="https://img.shields.io/github/stars/victordevjs1?style=flat&color=red&label=STARS" />
+  <img src="https://img.shields.io/github/followers/victordevjs1?label=FOLLOWERS&style=for-the-badge&color=red" />
 </p>
 </div>
