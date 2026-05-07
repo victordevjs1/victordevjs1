@@ -19,4 +19,15 @@
        <img src="https://camo.githubusercontent.com/7b60918a718d321e304686494060b6ed7c0957dfd29e0961d6b0e49cb9550e7f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="30px">
   whoami
 </h3>
+<pre>
+<code>
+student = {
+  course: "Systems Development",
+  level: "Technical High School",
+  focus: "Full Stack (Front-end)",
+  stack: ["HTML", "CSS", "JS", "React"],
+  mindset: "Always learning"
+}
+</code>
+</pre>
 </div>
