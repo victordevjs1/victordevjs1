@@ -20,9 +20,8 @@
   whoami
 </h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00bfff"/>
-</p>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=00bfff&width=20"/>
 
 
 <pre>
