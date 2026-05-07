@@ -38,3 +38,26 @@ student = {
 </code>
 </pre>
 </div>
+
+<div>
+  <h2>🧰 Arsenal</h2>
+
+<table>
+<tr>
+<td align="center">
+🎨 Front-end<br><br>
+<img src="https://skillicons.dev/icons?i=react,html,css,ts,js" />
+</td>
+
+<td align="center">
+⚙️ Back-end<br><br>
+<img src="https://skillicons.dev/icons?i=php,java,nodejs" />
+</td>
+
+<td align="center">
+🗄️ Database<br><br>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</td>
+</tr>
+</table>
+</div>
