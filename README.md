@@ -20,7 +20,7 @@
   whoami
 </h3>
 
-<hr style="height:1px;border:none;background-color:#00bfff;">
+<img width="100%" height="1" src="https://via.placeholder.com/1000x1/00bfff/00bfff">
 
 
 <pre>
