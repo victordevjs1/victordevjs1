@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=victordevjs1&label=PROFILE+VIEWS&style=for-the-badge&color=blue" />
 
-  <img src="https://img.shields.io/github/followers/victordevjs1?label=FOLLOWERS&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/victordevjs1&label=FOLLOWERS&style=for-the-badge&color=blue" />
 </p>
 </div>
 <p>
