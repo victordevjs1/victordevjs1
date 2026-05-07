@@ -25,8 +25,8 @@ student = {
   course: "Systems Development",
   level: "Technical High School",
   focus: "Full Stack (Front-end)",
-  stack: ["HTML", "CSS", "JS", "React"],
-  mindset: "Always learning"
+  stack: ["HTML", "CSS", "JS", "TS", "React", "NodeJS", "Java", "Php"],
+  mindset: "Learning and focused"
 }
 </code>
 </pre>
