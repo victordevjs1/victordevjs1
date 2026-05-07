@@ -5,5 +5,11 @@
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=%3E+Transforming+ideas+into+systems" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=PROFILE+VIEWS&color=red&style=flat" />
 
+  <img src="https://img.shields.io/github/followers/SEUUSUARIO?label=FOLLOWERS&style=flat&color=red" />
+
+  <img src="https://img.shields.io/github/stars/SEUUSUARIO?style=flat&color=red&label=STARS" />
+</p>
 </div>
